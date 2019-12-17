@@ -141,4 +141,3 @@ const findWinner = async () => {
     hit.style.display = "none"
     stand.style.display = "none"
 }
-
